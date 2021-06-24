@@ -15,7 +15,7 @@
   </h2>
   <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
   <br/>
-  <a href="https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534">Link to Shiny Apps</a>
+  <a href="https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534">Link to Shiny App</a>
   </body>
 
 <iframe width="900" height="800" frameborder="0" scrolling="yes" src="//plotly.com/~mhajihos/10.embed"></iframe>
@@ -36,7 +36,7 @@
   </h2>
   <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
   <br/>
-  <a href="https://morteza-hajihosseini.shinyapps.io/differentially_expressed_caf_genes/?_ga=2.147693303.1518566519.1624394643-1864538075.1624251534">Link to Shiny Apps</a>
+  <a href="https://morteza-hajihosseini.shinyapps.io/differentially_expressed_caf_genes/?_ga=2.147693303.1518566519.1624394643-1864538075.1624251534">Link to Shiny App</a>
   </body>
   
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/8.embed"></iframe>
@@ -74,6 +74,6 @@
   </h2>
   <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
   <br/>
-  <a href="https://morteza-hajihosseini.shinyapps.io/the_maximum_value_of_the_stouffer_sum_s/?_ga=2.148783095.1518566519.1624394643-1864538075.1624251534">Link to Shiny    Apps</a>
+  <a href="https://morteza-hajihosseini.shinyapps.io/the_maximum_value_of_the_stouffer_sum_s/?_ga=2.148783095.1518566519.1624394643-1864538075.1624251534">Link to Shiny    App</a>
   </body>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/20.embed"></iframe>
