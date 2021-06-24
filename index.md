@@ -7,9 +7,9 @@
   {% endfor %}
 {% endif %}
 
-
-  <a name="Title1" class="anchor" href="#Title1" >...</a>
-  "The interpolated expression of selected genes (CAF Phenotype)"
+<body>
+    <h1>The interpolated expression of selected genes (CAF Phenotype)</h1>
+</body>
 
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/10.embed"></iframe>
