@@ -7,4 +7,12 @@
   {% endfor %}
 {% endif %}
 
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/10.embed"></iframe>
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/12.embed"></iframe>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/14.embed"></iframe>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/16.embed"></iframe>
+
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/18.embed"></iframe>
