@@ -6,4 +6,8 @@
     {% endif %}
   {% endfor %}
 {% endif %}
-<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/1.embed"></iframe>
+<div>
+    <a href="https://plotly.com/~mhajihos/1/?share_key=iTZ4BpuCOwL1TRqfkCeXXE" target="_blank" title="r-plot" style="display: block; text-align: center;"><img src="https://plotly.com/~mhajihos/1.png?share_key=iTZ4BpuCOwL1TRqfkCeXXE" alt="r-plot" style="max-width: 100%;width: 600px;"  width="600" onerror="this.onerror=null;this.src='https://plotly.com/404.png';" /></a>
+    <script data-plotly="mhajihos:1" sharekey-plotly="iTZ4BpuCOwL1TRqfkCeXXE" src="https://plotly.com/embed.js" async></script>
+</div>
+
