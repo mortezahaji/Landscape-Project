@@ -7,10 +7,10 @@
   {% endfor %}
 {% endif %}
 
-</h1>
+
   <a name="Title1" class="anchor" href="#Title1" >...</a>
   "The interpolated expression of selected genes (CAF Phenotype)"
-</h1>
+
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/10.embed"></iframe>
 
