@@ -11,7 +11,7 @@
 <body>
     <h1>The interpolated expression of selected CAF genes</h1>
   <h2>
-        Name of the Data set: Intrpolate_Data.csv
+        Name of the Data set: Interpolate_Data.csv
   </h2>
   <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
   <br/>
