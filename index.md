@@ -31,11 +31,14 @@
 
 <body>
     <h1>The number of differentially expressed genes based on the semi-parametric 2-Wasserstein distance test</h1>
-    <h2>
-        
+  <h2>
+        Name of the Data set: Significant_Genes.csv
   </h2>
+  <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
+  <br/>
+  <a href="https://morteza-hajihosseini.shinyapps.io/differentially_expressed_caf_genes/?_ga=2.147693303.1518566519.1624394643-1864538075.1624251534">Link to Shiny Apps</a>
+  </body>
   
-</body>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/8.embed"></iframe>
 
 
@@ -66,9 +69,11 @@
 
 <body>
     <h1>The 3D visualization of the dominant pathway at each point of the grid</h1>
-    <h2>
-        
+  <h2>
+        Name of the Data set: Max_Pathways.csv
   </h2>
-  
-</body>
+  <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
+  <br/>
+  <a href="https://morteza-hajihosseini.shinyapps.io/the_maximum_value_of_the_stouffer_sum_s/?_ga=2.148783095.1518566519.1624394643-1864538075.1624251534">Link to Shiny    Apps</a>
+  </body>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/20.embed"></iframe>
