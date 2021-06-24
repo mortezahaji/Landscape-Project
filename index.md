@@ -9,7 +9,7 @@
 
 
 <body>
-    <h1>The interpolated expression of selected CAF genes (Fig 2)</h1>
+    <h1>The interpolated expression of selected CAF genes</h1>
   <h2>
         Name of the Data set: Intrpolate_Data.csv
   </h2>
@@ -29,7 +29,7 @@
 
 
 <body>
-    <h1>The number of differentially expressed genes based on the semi-parametric 2-Wasserstein distance test (Fig 3)</h1>
+    <h1>The number of differentially expressed genes based on the semi-parametric 2-Wasserstein distance test</h1>
     <h2>
         
   </h2>
@@ -39,7 +39,7 @@
 
 
 <body>
-    <h1>The 3D visualization of the Stouffer sum of predicted z-scores for specific pathways (Fig 4)</h1>
+    <h1>The 3D visualization of the Stouffer sum of predicted z-scores for specific pathways</h1>
     <h2>
         
   </h2>
@@ -64,7 +64,7 @@
 
 
 <body>
-    <h1>The 3D visualization of the dominant pathway at each point of the grid (Fig 5)</h1>
+    <h1>The 3D visualization of the dominant pathway at each point of the grid</h1>
     <h2>
         
   </h2>
