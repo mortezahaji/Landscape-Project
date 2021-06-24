@@ -12,11 +12,15 @@
     <h1>The interpolated expression of selected CAF genes (Fig 2)</h1>
   <h2>
         Name of the Data set: Intrpolate_Data.csv
-        [Link to Data set]: https://github.com/mortezahaji/Landscape-Project.git
-        [Link to Shiny Apps]: https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534
   </h2>
-  
-</body>
+  <h3>
+  [Link to Data set]: https://github.com/mortezahaji/Landscape-Project.git
+  </h3>
+  <h4>
+  [Link to Shiny Apps]: https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534
+  </h4>
+  </body>
+
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/10.embed"></iframe>
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/12.embed"></iframe>
