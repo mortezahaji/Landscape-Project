@@ -7,11 +7,10 @@
   {% endfor %}
 {% endif %}
 
+
 <body>
-    <h1>The interpolated expression of selected genes (CAF Phenotype)</h1>
+    <h1>The interpolated expression of selected CAF genes (Fig 2)</h1>
 </body>
-
-
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/10.embed"></iframe>
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/12.embed"></iframe>
@@ -23,10 +22,15 @@
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/18.embed"></iframe>
 
 
-
+<body>
+    <h1>The number of differentially expressed genes based on the semi-parametric 2-Wasserstein distance test (Fig 3)</h1>
+</body>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/8.embed"></iframe>
 
 
+<body>
+    <h1>The 3D visualization of the Stouffer sum of predicted z-scores for specific pathways (Fig 4)</h1>
+</body>
 
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/28.embed"></iframe>
 
@@ -45,5 +49,7 @@
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/32.embed"></iframe>
 
 
-
+<body>
+    <h1>The 3D visualization of the dominant pathway at each point of the grid (Fig 5)</h1>
+</body>
 <iframe width="900" height="800" frameborder="0" scrolling="no" src="//plotly.com/~mhajihos/20.embed"></iframe>
