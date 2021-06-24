@@ -13,7 +13,7 @@
   <h2>
         Name of the Data set: Intrpolate_Data.csv
   </h2>
-  <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a>br/
+  <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set<br/</a> 
   <a href="https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534">Link to Shiny Apps</a>
   </body>
 
