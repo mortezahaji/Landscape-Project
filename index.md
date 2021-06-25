@@ -18,7 +18,7 @@
   <a href="https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534">Link to Shiny App</a>
   </body>
 
-<iframe width="800" height="600" frameborder="900" scrolling="yes" src="//plotly.com/~mhajihos/10.embed"></iframe>
+<iframe width="800" height="400" frameborder="900" scrolling="yes" src="//plotly.com/~mhajihos/10.embed"></iframe>
 
 <iframe width="800" height="500" frameborder="0" scrolling="yes" src="//plotly.com/~mhajihos/12.embed"></iframe>
 
