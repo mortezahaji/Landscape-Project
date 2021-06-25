@@ -49,7 +49,7 @@
   </h2>
   <a href="https://github.com/mortezahaji/Landscape-Project.git">Link to Data set</a> 
   <br/>
-  <a href="https://morteza-hajihosseini.shinyapps.io/caf_genes/?_ga=2.144513909.1518566519.1624394643-1864538075.1624251534">Link to Shiny App</a>
+  <a href="https://morteza-hajihosseini.shinyapps.io/the_stouffer_sum_for_specific_pathways/?_ga=2.233556126.1605891782.1624580151-1864538075.1624251534">Link to Shiny App</a>
   </body>
 
 <iframe width="600" height="600" frameborder="0" scrolling="yes" src="//plotly.com/~mhajihos/28.embed"></iframe>
