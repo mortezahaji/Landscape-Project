@@ -10,5 +10,10 @@ Please use the "Significant_Genes.csv" for the following link
 https://morteza-hajihosseini.shinyapps.io/differentially_expressed_caf_genes/?_ga=2.147693303.1518566519.1624394643-1864538075.1624251534
 
 3. The Maximum Value of the Stouffer Sum S:
-  Please use the "Max_Pathways.csv" for the following link   
+Please use the "Max_Pathways.csv" for the following link   
 https://morteza-hajihosseini.shinyapps.io/the_maximum_value_of_the_stouffer_sum_s/?_ga=2.148783095.1518566519.1624394643-1864538075.1624251534
+
+4. The 3D visualization of the Stouffer sum of predicted z-scores for specific pathways:
+Please use the "Unweighted pathway Z-score.csv" for the following link
+https://morteza-hajihosseini.shinyapps.io/the_stouffer_sum_for_specific_pathways/?_ga=2.233556126.1605891782.1624580151-1864538075.1624251534
+
